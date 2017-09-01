@@ -1,2 +1,4 @@
+修复bug了
 我要开始学习合并分支喽
 zhou yu and xupu加油学习git
+今天周五啦
